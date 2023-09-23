@@ -25,7 +25,6 @@ The Algorithms used are :
 
 ![Screenshot 3](/screenshots/ss3.png)
 
-> Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
